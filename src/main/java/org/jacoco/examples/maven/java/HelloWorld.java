@@ -1,4 +1,4 @@
-package org.jacoco.examples.maven.java;//variable
+package org.jacoco.examples.maven.java;//variable test webhooks
 
 public class HelloWorld {
 
